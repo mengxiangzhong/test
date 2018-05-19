@@ -18,3 +18,6 @@ print("the value of c is", c)
 
 def mul(a,b):
     return (a * b)
+
+
+print("a test")
